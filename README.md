@@ -29,5 +29,3 @@ portfolio/    -> Portfolio documentation
 ✅ Git initialized
 
 ✅ First commit completed
-
-🚀 Ready to begin Module 1
